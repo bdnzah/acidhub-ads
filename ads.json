@@ -1,0 +1,28 @@
+{
+  "ads": [
+    {
+      "title": "Support AcidHub Development!",
+      "description": "Help keep AcidHub updated and free by supporting the developer. Your donations help fund new features and bug fixes!",
+      "imageUrl": "rbxassetid://75346641319200",
+      "buttonText": "Donate Now",
+      "buttonUrl": "https://paypal.me/your-paypal-link",
+      "duration": 15
+    },
+    {
+      "title": "Join Our Discord Server!",
+      "description": "Get the latest updates, report bugs, and chat with other AcidHub users in our official Discord community.",
+      "imageUrl": "rbxassetid://your-discord-image-id",
+      "buttonText": "Join Discord",
+      "buttonUrl": "https://discord.gg/your-invite-code",
+      "duration": 12
+    },
+    {
+      "title": "Follow on Social Media",
+      "description": "Stay updated with the latest AcidHub news and updates by following us on our social media channels.",
+      "imageUrl": "rbxassetid://your-social-image-id",
+      "buttonText": "Follow Us",
+      "buttonUrl": "https://twitter.com/your-handle",
+      "duration": 10
+    }
+  ]
+}
